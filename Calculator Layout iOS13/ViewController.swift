@@ -4,7 +4,7 @@
 //
 //  Created by Angela Yu on 01/07/2019.
 //  Copyright © 2019 The App Brewery. All rights reserved.
-// Chaged Mauricio contreras 
+//  Change Mau Contreras
 import UIKit
 
 class ViewController: UIViewController {
